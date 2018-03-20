@@ -70,6 +70,10 @@
                     </div>    
 				</div>
 			</div>
+            <!-- footer -->
+            <div>
+            <!-- fill in the blank -->
+            </div>
 	</body>
 </html>
 
